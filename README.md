@@ -10,6 +10,9 @@ with the command !java &lt;ip> you can see the Server information
 # Discord
 - [Invite](https://discord.gg/znqrsKSR2d)
 
+# Language
+- Python
+
 # Developers
 - jaegerness
 - ChillatoDev
