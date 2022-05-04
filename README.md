@@ -7,6 +7,9 @@ with the command! java &lt;ip> you can see the Server information
 - [YouTube](https://www.youtube.com/channel/UCkTXxg_RVTRaiWWCZjZcVZA)
 - [Twitter](https://twitter.com/JaegerDevelopm1)
 
+# Discord
+- [Invite](https://discord.gg/znqrsKSR2d)
+
 # Developers
 - jaegerness
 - ChillatoDev
